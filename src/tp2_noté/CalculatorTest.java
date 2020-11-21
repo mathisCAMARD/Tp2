@@ -19,6 +19,7 @@ public class CalculatorTest {
 
         Scanner input = new Scanner(System.in);
         boolean a;
+        System.out.println("test");
 
         do {
             System.out.println("entrer une phrase");
